@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "d98c",
+      "title": "first article",
+      "content": "eg"
+    },
+    {
+      "id": "2a68",
+      "title": "second article",
+      "content": "2nd eg"
+    },
+    {
+      "id": "a642",
+      "title": "third article",
+      "content": "3rd eg"
+    },
+    {
+      "id": "fb27",
+      "title": "fourth article",
+      "content": "4th eg"
+    },
+    {
+      "id": "d98c",
+      "title": "fourth article",
+      "content": "4th eg"
+    }
+  ]
+}
